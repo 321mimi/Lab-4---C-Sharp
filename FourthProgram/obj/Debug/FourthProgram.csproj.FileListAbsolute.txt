@@ -1,0 +1,7 @@
+C:\Users\Michelle\Desktop\SCHOOL\Second term\Web programming 2\Assignments\Lab4\FourthProgram\FourthProgram\bin\Debug\FourthProgram.exe.config
+C:\Users\Michelle\Desktop\SCHOOL\Second term\Web programming 2\Assignments\Lab4\FourthProgram\FourthProgram\bin\Debug\FourthProgram.exe
+C:\Users\Michelle\Desktop\SCHOOL\Second term\Web programming 2\Assignments\Lab4\FourthProgram\FourthProgram\bin\Debug\FourthProgram.pdb
+C:\Users\Michelle\Desktop\SCHOOL\Second term\Web programming 2\Assignments\Lab4\FourthProgram\FourthProgram\obj\Debug\FourthProgram.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Desktop\SCHOOL\Second term\Web programming 2\Assignments\Lab4\FourthProgram\FourthProgram\obj\Debug\FourthProgram.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\Desktop\SCHOOL\Second term\Web programming 2\Assignments\Lab4\FourthProgram\FourthProgram\obj\Debug\FourthProgram.exe
+C:\Users\Michelle\Desktop\SCHOOL\Second term\Web programming 2\Assignments\Lab4\FourthProgram\FourthProgram\obj\Debug\FourthProgram.pdb
